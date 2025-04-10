@@ -1,6 +1,10 @@
 Exercicio:
 
+Exercicio:
+
 Desafio Final Objetivo: Combinar tudo o que foi aprendido. Dado um conjunto de dados fictício sobre vendas (por exemplo, id_cliente, valor_compra, data_compra): • Identifique os clientes com maior valor de compra. • Agrupe as compras por ano e calcule o total de vendas anuais. • Salve os resultados em um formato de sua escolha (CSV, JSON, etc.
+
+
 Resposta:
 
 # Desafio Final - Análise de Vendas com Python e Pandas
